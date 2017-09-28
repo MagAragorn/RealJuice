@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\MainDataBand\Scripts\MainManager.cs">
+    <Files>
+      <File FileName="Assets\MainDataBand\Scripts\ButtonNews.cs" Line="1" Column="1" />
+      <File FileName="Assets\MainDataBand\Scripts\MainManager.cs" Line="42" Column="4" />
+      <File FileName="Assets\MainDataBand\Scripts\LectionsRol.cs" Line="16" Column="2" />
+      <File FileName="G:\unity\Lock2\Assets\NewDataBand\Script\MainMenyManager.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
